@@ -1,0 +1,14 @@
+.env
+node_modules
+
+*.o
+*.a
+*.so
+*.exe
+*.out
+
+_obj
+_test
+vendor/
+
+/bin
