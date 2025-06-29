@@ -12,3 +12,5 @@ _test
 vendor/
 
 /bin
+
+tmp
